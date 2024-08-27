@@ -1,6 +1,6 @@
 # 🎓 **University GUI Application** 🎓
 
-🎉 I’m super happy to share the **University GUI Application** with you! This project has been a checkpoint for my eye to rest, and I’m thrilled with how it’s turned out. From the vibrant login page to the smooth sidebar animations and dynamic internal pages, I’ve had so much fun bringing this to life. I hope you enjoy using it as much as I enjoyed building it! 🚀✨
+🎉 I’m super happy to share the **University GUI Application** with you! This project has been a checkpoint for my eye to rest, and I’m thrilled with how it’s turned out. From the vibrant login page to the smooth sidebar animations and dynamic internal pages, I’ve had so much fun bringing this to life. I really hope you enjoy it as much fun i had making this! 🚀✨
 
 ## 🖼️ **Screenshots**
 
